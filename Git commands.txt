@@ -8,3 +8,5 @@ This command is use to clone the repo
 -git push "Repo link"
 
 -git pull "Repo link"
+
+-git
