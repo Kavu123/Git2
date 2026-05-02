@@ -6,4 +6,7 @@ This command is use to clone the repo
 - git commit -m "message" //to commit
 
 -git push "repo link"
+
 -git pull "repo link"
+
+learnt 4 commands
