@@ -4,3 +4,6 @@ This command is use to clone the repo
 - git add --all // to add a file
 
 - git commit -m "message" //to commit
+
+-git push "repo link"
+-git pull "repo link"
